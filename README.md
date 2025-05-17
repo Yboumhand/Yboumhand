@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate Software Engineer with strong interest in Data Science and Application Development. I enjoy building data-driven applications that solve real-world problems. My expertise spans across back-end development, data analysis, and creating intuitive user interfaces.
+As a Software and Data Engineering student, I'm a passionate builder of data-driven applications aimed at tackling real-world challenges. My skills encompass back-end development, data analysis, and crafting user-friendly interfaces. Currently, I'm particularly eager to gain hands-on experience with data science tools and techniques, especially in areas like machine learning and supervised learning.
 
 Currently focusing on:
 - 📊 Data visualization and analytics
