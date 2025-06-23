@@ -12,17 +12,20 @@
 ### 🚀 About Me
 
 <p>
-  Software and Data Engineering student actively building a strong <strong>front-end</strong> foundation using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript </strong><em>(Vanilla)</em>. Currently working on small projects to reinforce core concepts before moving into <strong>React.js</strong>.
+  Software and Data Engineering student actively building a strong <strong>front-end</strong> foundation using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> <em>(Vanilla)</em>. Currently working on small hands-on projects to reinforce core concepts before moving into <strong>React.js</strong>.
 
-I'm also exploring data-focused tools like <strong>Power BI</strong>, <strong>Machine Learning</strong>, and <strong>AI</strong>, aiming to blend user-facing interfaces with intelligent, data-driven features. Passionate about learning by doing and always ready to grow through hands-on experience.
+  I'm also deeply interested in <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>, aiming to blend user-facing interfaces with smart, data-driven functionality. Passionate about continuous learning and ready to grow through practical, real-world experience.
 </p>
 
-Currently focusing on:
-- 📊 Data visualization and analytics
-- 🌐 Full-stack application development
-- 📱 Mobile application development
+<p>
+  <strong>Currently focusing on:</strong>
+</p>
+<ul>
+  <li>💻 Front-end development (HTML, CSS, JS → React.js)</li>
+  <li>📊 Data Science & Machine Learning fundamentals</li>
+  <li>🧠 AI concepts and applications</li>
+</ul>
 
----
 
 ### 🔧 Technical Skills
 
