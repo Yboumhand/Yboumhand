@@ -11,7 +11,11 @@
 
 ### 🚀 About Me
 
-As a Software and Data Engineering student, I'm a passionate builder of data-driven applications aimed at tackling real-world challenges. My skills encompass back-end development, data analysis, and crafting user-friendly interfaces. Currently, I'm particularly eager to gain hands-on experience with data science tools and techniques, especially in areas like machine learning and supervised learning.
+<p>
+  Software and Data Engineering student actively building a strong <strong>front-end</strong> foundation using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript </strong><em>(Vanilla)</em>. Currently working on small projects to reinforce core concepts before moving into <strong>React.js</strong>.
+
+I'm also exploring data-focused tools like <strong>Power BI</strong>, <strong>Machine Learning</strong>, and <strong>AI</strong>, aiming to blend user-facing interfaces with intelligent, data-driven features. Passionate about learning by doing and always ready to grow through hands-on experience.
+</p>
 
 Currently focusing on:
 - 📊 Data visualization and analytics
