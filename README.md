@@ -1,4 +1,3 @@
-
 ![imag alt](https://github.com/Yboumhand/Yboumhand/blob/e91918dcf93b941a54bc157637019878229af58a/banner.png)
 
 # <p align="left"> Hello! I'm Yassine Boumhand </p>
@@ -14,21 +13,17 @@
 
 ### 🚀 About Me
 
-<p>
-  Software and Data Engineering student actively building a strong <strong>front-end</strong> foundation using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> <em>(Vanilla)</em>. Currently working on small hands-on projects to reinforce core concepts before moving into <strong>React.js</strong>.
+Passionate about uncovering insights from data, solving real-world problems, and turning numbers into meaningful stories. Constantly learning and competing to sharpen my skills in machine learning, statistics, and data visualization. Let's explore datasets together!
 
-  I'm also deeply interested in <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>, aiming to blend user-facing interfaces with smart, data-driven functionality. Passionate about continuous learning and ready to grow through practical, real-world experience.
-</p>
+🧠 Strong foundation in Machine Learning models and NLP techniques, currently deepening my expertise in Deep Learning and Transformers.
 
-<p>
-  <strong>Currently focusing on:</strong>
-</p>
-<ul>
-  <li>💻 Front-end development (HTML, CSS, JS → React.js)</li>
-  <li>📊 Data Science & Machine Learning fundamentals</li>
-  <li>🧠 AI concepts and applications</li>
-</ul>
+🤝 Great at teamwork, communication, and leadership — I thrive in collaborative environments where ideas meet execution.
 
+📚 Hobbies: Content Creation · Reading · AI · Jogging
+
+📩 Currently seeking a PFA Internship — available end of year. Ready to build, learn & contribute.
+
+---
 
 ### 🔧 Technical Skills
 
@@ -49,6 +44,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+</p>
+
+#### Machine Learning & Deep Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="keras logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
 </p>
 
 #### Data Science & Analysis
@@ -80,6 +88,8 @@
 
 #### Tools & Platforms
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
@@ -94,25 +104,6 @@
 </p>
 
 </div>
-
----
-
-### 🌟 Featured Projects
-
-#### VenteFx - Sales Data Analysis Application
-A comprehensive Java application for analyzing and visualizing sales data with a focus on user experience and insightful analytics.
-
-**Key Features:**
-- Sales Analytics Dashboard with category breakdown and statistics
-- Data Management interface for new entries and data import
-- Interactive charts and graphs for sales visualization
-- CSV and database integration with custom reporting
-
-**Technologies:** Java, JavaFX, JFreeChart, MySQL, JDBC
-
-[View Project](https://github.com/Yboumhand/JavaFX_App)
-
-<!-- You can add more projects here -->
 
 ---
 
@@ -137,7 +128,7 @@ A comprehensive Java application for analyzing and visualizing sales data with a
 
 ### 🎓 Education
 
-- **Software Engineering&&Data Science Specialization**, ENSA Khouribga
+- **Software Engineering & Data Science Specialization**, ENSA Khouribga
 
 ---
 
